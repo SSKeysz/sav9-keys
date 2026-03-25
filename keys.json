@@ -4,5 +4,11 @@
     "tipo": "diaria",
     "nota": "Teste1D",
     "criada": "2026-03-25"
+  },
+  "SAV9-DHSQ-RFYD-J3D3": {
+    "expira": "2026-04-01",
+    "tipo": "semanal",
+    "nota": "Teste7D",
+    "criada": "2026-03-25"
   }
 }
