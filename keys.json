@@ -22,5 +22,11 @@
     "tipo": "lifetime",
     "nota": "",
     "criada": "2026-03-26"
+  },
+  "SAV9-D66B-UAQX-4J6Q": {
+    "expira": "2026-03-27",
+    "tipo": "diaria",
+    "nota": "teste2",
+    "criada": "2026-03-26"
   }
 }
