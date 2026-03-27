@@ -28,5 +28,13 @@
     "tipo": "diaria",
     "nota": "teste2",
     "criada": "2026-03-26"
+  },
+  "SAV9-G9XJ-C3GC-R3ZU": {
+    "expira": "2125-03-27",
+    "tipo": "lifetime",
+    "nota": "Gago",
+    "criada": "2026-03-27",
+    "usos": 0,
+    "historico": []
   }
 }
