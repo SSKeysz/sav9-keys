@@ -1,10 +1,4 @@
 {
-  "SAV9-DWK9-4LT8-A8UQ": {
-    "expira": "2026-04-02",
-    "tipo": "diaria",
-    "nota": "Teste1D",
-    "criada": "2026-03-25"
-  },
   "SAV9-BGPE-XT72-E6B2": {
     "expira": "2125-03-26",
     "tipo": "lifetime",
