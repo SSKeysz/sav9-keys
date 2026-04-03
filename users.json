@@ -1,0 +1,12 @@
+{
+  "tutu": {
+    "password": "MTIz",
+    "cargo": "Amigo",
+    "perms": [
+      "ver_keys",
+      "gerar_keys",
+      "extender_prazo"
+    ],
+    "criado": "03/04/2026"
+  }
+}
