@@ -26,5 +26,11 @@
     "tipo": "diaria",
     "nota": "Key do castro",
     "criada": "2026-03-28"
+  },
+  "SAV9-QDMC-DWZB-TRES": {
+    "expira": "2125-04-04T18:06:00.139Z",
+    "tipo": "lifetime",
+    "nota": "DDDDDD",
+    "criada": "2026-04-04"
   }
 }
