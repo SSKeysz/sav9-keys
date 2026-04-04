@@ -26,5 +26,11 @@
     "tipo": "diaria",
     "nota": "Key do castro",
     "criada": "2026-03-28"
+  },
+  "SAV9-SDUT-LS3B-4PBF": {
+    "expira": "2125-04-04T17:51:16.060Z",
+    "tipo": "lifetime",
+    "nota": "dwadwa",
+    "criada": "2026-04-04"
   }
 }
