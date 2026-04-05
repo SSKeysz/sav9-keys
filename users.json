@@ -1,12 +1,27 @@
 {
-  "tutu": {
-    "password": "MTIz",
-    "cargo": "Amigo",
-    "perms": [
-      "ver_keys",
-      "gerar_keys",
-      "extender_prazo"
-    ],
-    "criado": "03/04/2026"
+  "adm": {
+    "login": "adm",
+    "pass": "1",
+    "nome": "Administrador",
+    "permissions": {
+      "viewKeys": true,
+      "viewStats": true,
+      "viewCharts": true,
+      "revealKey": true,
+      "refreshKeys": true,
+      "generate": true,
+      "revoke": true,
+      "extend": true,
+      "extendAdvanced": true,
+      "editNote": true,
+      "exportKeys": true,
+      "viewLog": true,
+      "exportLog": true,
+      "clearLog": true,
+      "restoreLog": true,
+      "manageUsers": true,
+      "forceLogoutUsers": true,
+      "accessAdminPanel": true
+    }
   }
 }
