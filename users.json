@@ -23,5 +23,30 @@
       "forceLogoutUsers": true,
       "accessAdminPanel": true
     }
+  },
+  "gago": {
+    "login": "gago",
+    "pass": "NICOLASPAT",
+    "nome": "gago",
+    "permissions": {
+      "viewKeys": true,
+      "viewStats": false,
+      "viewCharts": false,
+      "revealKey": true,
+      "refreshKeys": false,
+      "generate": true,
+      "revoke": false,
+      "extend": false,
+      "extendAdvanced": true,
+      "editNote": false,
+      "exportKeys": false,
+      "viewLog": true,
+      "exportLog": false,
+      "clearLog": false,
+      "restoreLog": false,
+      "manageUsers": false,
+      "forceLogoutUsers": false,
+      "accessAdminPanel": false
+    }
   }
 }
