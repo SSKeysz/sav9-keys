@@ -4,7 +4,7 @@
   "panelTitle": "🔑 SAV9 — Painel de Keys",
   "globalNotice": "",
   "loginWelcome": "Painel de gerenciamento de keys",
-  "glowIntensity": 0,
-  "glassLevel": 14,
+  "glowIntensity": 5,
+  "glassLevel": 6,
   "defaultTheme": "light"
 }
