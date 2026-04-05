@@ -3,6 +3,6 @@
   "customAccent": "#6ea8fe",
   "panelTitle": "🔑 SAV9 — Painel de Keys",
   "globalNotice": "tESTE",
-  "defaultTheme": "light",
+  "defaultTheme": "dark",
   "loginWelcome": "Painel de gerenciamento de keys"
 }
