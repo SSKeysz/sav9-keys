@@ -2,7 +2,7 @@
   "accent": "blue",
   "customAccent": "#6ea8fe",
   "panelTitle": "🔑 SAV9 — Painel de Keys",
-  "globalNotice": "tESTE",
+  "globalNotice": "",
   "defaultTheme": "dark",
   "loginWelcome": "Painel de gerenciamento de keys"
 }
