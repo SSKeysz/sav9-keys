@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: gago",
+    "key": "",
+    "time": "05-04-2026 22:02:58",
+    "details": null
+  },
+  {
     "tipo": "key_view",
     "msg": "Copiou a key recém-gerada: SAV9-NLVL-4LP5-JDLT | Usuário: gago",
     "key": "SAV9-NLVL-4LP5-JDLT",
