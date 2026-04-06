@@ -47,6 +47,11 @@
       "manageUsers": false,
       "forceLogoutUsers": false,
       "accessAdminPanel": false
+    },
+    "preferences": {
+      "themeMode": "light",
+      "visualPreset": "minimal",
+      "accentOverride": "global"
     }
   }
 }
