@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "revoke",
+    "msg": "Key revogada: SAV9-SM89-E8EK-PQBU | Nota: aaaaa | Usuário: gago",
+    "key": "SAV9-SM89-E8EK-PQBU",
+    "time": "05-04-2026 22:22:10",
+    "details": null
+  },
+  {
     "tipo": "ui",
     "msg": "Fechou o modal de extensão da key: SAV9-SM89-E8EK-PQBU | Usuário: gago",
     "key": "SAV9-SM89-E8EK-PQBU",
