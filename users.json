@@ -45,5 +45,26 @@
       "visualPreset": "minimal",
       "accentOverride": "cyan"
     }
+  },
+  "tutu": {
+    "login": "tutu",
+    "pass": "7",
+    "nome": "tutu",
+    "permissions": {
+      "viewKeys": true,
+      "viewStats": true,
+      "viewCharts": true,
+      "revealKey": true,
+      "refreshKeys": true,
+      "generate": true,
+      "revoke": true,
+      "extend": true,
+      "extendAdvanced": true,
+      "editNote": false,
+      "exportKeys": true,
+      "manageUsers": false,
+      "forceLogoutUsers": false,
+      "accessAdminPanel": false
+    }
   }
 }
