@@ -1,0 +1,2922 @@
+[
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:53:34",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 21:53:32",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 21:53:31",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:51:53",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 21:51:51",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 21:51:50",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:51:30",
+    "details": null
+  },
+  {
+    "tipo": "revoke",
+    "msg": "Key revogada: SAV9-DHWQ-WHRJ-GBW9 | Nota: — | Usuário: adm",
+    "key": "SAV9-DHWQ-WHRJ-GBW9",
+    "time": "05-04-2026 21:51:28",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 21:51:24",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 21:51:23",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:51:08",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:50:55",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:50:45",
+    "details": null
+  },
+  {
+    "tipo": "permission",
+    "msg": "Atualizou as configurações globais do painel | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:49:47",
+    "details": {
+      "corGlobal": "Azul",
+      "tituloPainel": "🔑 SAV9 — Painel de Keys",
+      "avisoGlobal": "—",
+      "expiraAviso": "—",
+      "temaSazonal": "Nenhum",
+      "mensagemLogin": "Painel de gerenciamento de keys",
+      "intensidadeTema": "5",
+      "glass": "6"
+    }
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:49:26",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:49:25",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:49:24",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:49:23",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:49:20",
+    "details": null
+  },
+  {
+    "tipo": "permission",
+    "msg": "Atualizou as configurações globais do painel | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:47:41",
+    "details": {
+      "corGlobal": "Azul",
+      "tituloPainel": "🔑 SAV9 — Painel de Keys",
+      "avisoGlobal": "—",
+      "expiraAviso": "—",
+      "temaSazonal": "Nenhum",
+      "mensagemLogin": "Painel de gerenciamento de keys",
+      "intensidadeTema": "5",
+      "glass": "6"
+    }
+  },
+  {
+    "tipo": "permission",
+    "msg": "Atualizou as configurações globais do painel | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:47:40",
+    "details": {
+      "corGlobal": "Azul",
+      "tituloPainel": "🔑 SAV9 — Painel de Keys",
+      "avisoGlobal": "—",
+      "expiraAviso": "—",
+      "temaSazonal": "Nenhum",
+      "mensagemLogin": "Painel de gerenciamento de keys",
+      "intensidadeTema": "5",
+      "glass": "6"
+    }
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:47:36",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:47:35",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:47:11",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:46:59",
+    "details": null
+  },
+  {
+    "tipo": "permission",
+    "msg": "Forçou logout remoto do usuário: gago | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:46:58",
+    "details": {
+      "login": "gago",
+      "forcarLogoutRemoto": "sim",
+      "disparadoPor": "adm",
+      "horario": "05-04-2026 21:46:58"
+    }
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:46:53",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:46:48",
+    "details": null
+  },
+  {
+    "tipo": "permission",
+    "msg": "Gerenciamento de usuários liberado por: adm | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:46:17",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:46:11",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 21:45:59",
+    "details": null
+  },
+  {
+    "tipo": "permission",
+    "msg": "Gerenciamento de usuários liberado por: adm | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:39:34",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:39:30",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:39:30",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:38:44",
+    "details": null
+  },
+  {
+    "tipo": "permission",
+    "msg": "Atualizou as configurações globais do painel | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:38:42",
+    "details": {
+      "corGlobal": "Personalizada",
+      "tituloPainel": "🔑 SAV9 — Painel de Keys",
+      "avisoGlobal": "—",
+      "expiraAviso": "—",
+      "temaSazonal": "Nenhum",
+      "mensagemLogin": "Painel de gerenciamento de keys",
+      "intensidadeTema": "5",
+      "glass": "6"
+    }
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:36:57",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:36:56",
+    "details": null
+  },
+  {
+    "tipo": "permission",
+    "msg": "Atualizou as configurações globais do painel | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:36:50",
+    "details": {
+      "corGlobal": "Verde",
+      "tituloPainel": "🔑 SAV9 — Painel de Keys",
+      "avisoGlobal": "—",
+      "expiraAviso": "—",
+      "temaSazonal": "Nenhum",
+      "mensagemLogin": "Painel de gerenciamento de keys",
+      "intensidadeTema": "5",
+      "glass": "6"
+    }
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:36:45",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:36:29",
+    "details": null
+  },
+  {
+    "tipo": "permission",
+    "msg": "Atualizou as configurações globais do painel | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:36:28",
+    "details": {
+      "corGlobal": "Verde",
+      "tituloPainel": "🔑 SAV9 — Painel de Keys",
+      "avisoGlobal": "—",
+      "expiraAviso": "—",
+      "temaSazonal": "Nenhum",
+      "mensagemLogin": "Painel de gerenciamento de keys",
+      "intensidadeTema": "5",
+      "glass": "6"
+    }
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:36:26",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:36:24",
+    "details": null
+  },
+  {
+    "tipo": "permission",
+    "msg": "Atualizou as configurações globais do painel | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:36:24",
+    "details": {
+      "corGlobal": "Verde",
+      "tituloPainel": "🔑 SAV9 — Painel de Keys",
+      "avisoGlobal": "—",
+      "expiraAviso": "—",
+      "temaSazonal": "Nenhum",
+      "mensagemLogin": "Painel de gerenciamento de keys",
+      "intensidadeTema": "5",
+      "glass": "6"
+    }
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:36:18",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:36:17",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:36:16",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:36:08",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:36:00",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:35:58",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:35:15",
+    "details": null
+  },
+  {
+    "tipo": "permission",
+    "msg": "Atualizou as configurações globais do painel | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:35:11",
+    "details": {
+      "corGlobal": "Ciano",
+      "tituloPainel": "🔑 SAV9 — Painel de Keys",
+      "avisoGlobal": "—",
+      "expiraAviso": "—",
+      "temaSazonal": "Nenhum",
+      "mensagemLogin": "Painel de gerenciamento de keys",
+      "intensidadeTema": "5",
+      "glass": "6"
+    }
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:35:11",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:35:08",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:35:06",
+    "details": null
+  },
+  {
+    "tipo": "permission",
+    "msg": "Atualizou as configurações globais do painel | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:35:05",
+    "details": {
+      "corGlobal": "Verde",
+      "tituloPainel": "🔑 SAV9 — Painel de Keys",
+      "avisoGlobal": "—",
+      "expiraAviso": "—",
+      "temaSazonal": "Nenhum",
+      "mensagemLogin": "Painel de gerenciamento de keys",
+      "intensidadeTema": "5",
+      "glass": "6"
+    }
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:35:02",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:35:00",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:34:58",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:34:57",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:34:55",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:34:51",
+    "details": null
+  },
+  {
+    "tipo": "permission",
+    "msg": "Atualizou as configurações globais do painel | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:34:50",
+    "details": {
+      "corGlobal": "Roxo",
+      "tituloPainel": "🔑 SAV9 — Painel de Keys",
+      "avisoGlobal": "—",
+      "expiraAviso": "—",
+      "temaSazonal": "Nenhum",
+      "mensagemLogin": "Painel de gerenciamento de keys",
+      "intensidadeTema": "5",
+      "glass": "6"
+    }
+  },
+  {
+    "tipo": "permission",
+    "msg": "Atualizou as configurações globais do painel | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:34:29",
+    "details": {
+      "corGlobal": "Azul",
+      "tituloPainel": "🔑 SAV9 — Painel de Keys",
+      "avisoGlobal": "—",
+      "expiraAviso": "—",
+      "temaSazonal": "Nenhum",
+      "mensagemLogin": "Painel de gerenciamento de keys",
+      "intensidadeTema": "5",
+      "glass": "6"
+    }
+  },
+  {
+    "tipo": "permission",
+    "msg": "Atualizou as configurações globais do painel | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:34:28",
+    "details": {
+      "corGlobal": "Azul",
+      "tituloPainel": "🔑 SAV9 — Painel de Keys",
+      "avisoGlobal": "—",
+      "expiraAviso": "—",
+      "temaSazonal": "Nenhum",
+      "mensagemLogin": "Painel de gerenciamento de keys",
+      "intensidadeTema": "5",
+      "glass": "6"
+    }
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:34:22",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:33:14",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:32:23",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:32:16",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:31:45",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:31:45",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:31:06",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:30:56",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:30:43",
+    "details": null
+  },
+  {
+    "tipo": "revoke",
+    "msg": "Key revogada: SAV9-UWG8-JNSA-JEDA | Nota: — | Usuário: adm",
+    "key": "SAV9-UWG8-JNSA-JEDA",
+    "time": "05-04-2026 21:30:42",
+    "details": null
+  },
+  {
+    "tipo": "create",
+    "msg": "Key criada: SAV9-UWG8-JNSA-JEDA | Tipo: diaria | Nota: — | Usuário: adm",
+    "key": "SAV9-UWG8-JNSA-JEDA",
+    "time": "05-04-2026 21:30:34",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:30:29",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:30:16",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:29:54",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:29:50",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:29:49",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:29:39",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:29:36",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:29:31",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:29:31",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:29:28",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:29:17",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:29:16",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:28:42",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 21:28:38",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 21:20:30",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 21:20:28",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 21:20:28",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:06:17",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:06:16",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:06:16",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:06:15",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:06:04",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:06:00",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:05:57",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:05:29",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 21:05:26",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:00:26",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:00:22",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:00:21",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:00:21",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 21:00:20",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:59:34",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:59:33",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:59:30",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 20:59:29",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:31:00",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:30:59",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:30:54",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:30:54",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:30:53",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:30:52",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:30:50",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 20:30:48",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 20:30:47",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:26:43",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 20:26:40",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 20:13:24",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 20:13:23",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:12:45",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:12:44",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:12:44",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:12:43",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:12:42",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:12:42",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:12:41",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:12:39",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:12:35",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:12:35",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 20:12:26",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 20:12:23",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 19:50:17",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 19:50:17",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 19:45:49",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 19:27:19",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 19:27:18",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 19:25:49",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 19:25:44",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 19:25:43",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Log restaurado por adm | 242 entradas restauradas",
+    "key": "",
+    "time": "05-04-2026 19:14:33",
+    "details": {
+      "entradasRestauradas": 242,
+      "backupCriadoEm": "05-04-2026 19:14:19"
+    }
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 19:14:19",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 19:14:16",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 19:14:15",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 19:13:10",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 19:13:08",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 19:05:14",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 19:05:13",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 18:47:07",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 18:47:06",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 18:47:05",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 18:33:44",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 18:31:20",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 18:31:19",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 18:31:16",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 18:31:14",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 12:25:43",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 12:25:42",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 12:25:42",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:25:28",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:25:27",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:25:25",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 12:25:24",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:20:36",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:20:32",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:20:31",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:20:30",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 12:20:29",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:15:24",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:15:23",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:15:22",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 12:15:21",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:13:31",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:13:08",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:12:42",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:12:42",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:12:41",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: gráficos | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:12:40",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:12:39",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:12:25",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:12:13",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:12:11",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:12:09",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:12:07",
+    "details": null
+  },
+  {
+    "tipo": "permission",
+    "msg": "Gerenciamento de usuários liberado por: adm | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:12:03",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:11:48",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:11:47",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:11:46",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 12:11:45",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 12:11:36",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:20:59",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:19:52",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:19:40",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 04:19:38",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:13:49",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:13:24",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:13:23",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:12:59",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:12:57",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:12:45",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 04:12:44",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 04:09:00",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 04:08:59",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 04:08:59",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 04:08:57",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:04:24",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:04:24",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:04:24",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:04:22",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:04:22",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:04:06",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:04:06",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:04:02",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:04:01",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:04:01",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:03:56",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 04:03:54",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:01:50",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:01:21",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:01:20",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:01:15",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:01:14",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:01:09",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:01:07",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:01:01",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:00:59",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 04:00:44",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 04:00:42",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 03:55:53",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 03:55:52",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:50:05",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:50:05",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:50:03",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:50:02",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:49:54",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:49:53",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:48:59",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:48:57",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:48:54",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:48:53",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:48:49",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:48:46",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:48:37",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:48:37",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: gráficos | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:48:36",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Log restaurado por adm | 137 entradas restauradas",
+    "key": "",
+    "time": "05-04-2026 03:48:28",
+    "details": {
+      "entradasRestauradas": 137,
+      "backupCriadoEm": "05-04-2026 03:48:08"
+    }
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:48:08",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:48:08",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:48:03",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:48:03",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 03:47:58",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:45:54",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: gráficos | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:45:53",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:45:53",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:45:52",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: gráficos | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:45:52",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:45:50",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:44:46",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:44:45",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:44:41",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:44:40",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: gráficos | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:44:34",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:44:33",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:44:32",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:44:32",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: gráficos | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:44:30",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:44:23",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:44:21",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:43:39",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:43:36",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:43:19",
+    "details": null
+  },
+  {
+    "tipo": "permission",
+    "msg": "Permissões/credenciais atualizadas: gago | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:43:06",
+    "details": {
+      "login": "gago",
+      "nome": "gago",
+      "senhaAlterada": "não",
+      "totalPermitidas": 10,
+      "totalBloqueadas": 8,
+      "permissoesPermitidas": [
+        "Ver lista de keys",
+        "Ver estatísticas",
+        "Ver aba de gráficos",
+        "Ver/copiar key",
+        "Atualizar lista de keys",
+        "Gerar key",
+        "Extensão avançada/lifetime",
+        "Exportar keys",
+        "Ver log",
+        "Exportar log"
+      ],
+      "permissoesBloqueadas": [
+        "Revogar key",
+        "Extender prazo básico",
+        "Editar nota",
+        "Limpar log",
+        "Restaurar log",
+        "Criar/editar usuários",
+        "Forçar logout remoto",
+        "Acessar painel admin"
+      ]
+    }
+  },
+  {
+    "tipo": "permission",
+    "msg": "Gerenciamento de usuários liberado por: adm | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:42:33",
+    "details": null
+  },
+  {
+    "tipo": "permission",
+    "msg": "Falha ao liberar gerenciamento de usuários com login: adM",
+    "key": "",
+    "time": "05-04-2026 03:42:30",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:42:22",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:42:22",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:42:12",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: gráficos | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:42:10",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:41:47",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:41:37",
+    "details": null
+  },
+  {
+    "tipo": "permission",
+    "msg": "Atualizou as configurações globais do painel | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:41:30",
+    "details": {
+      "corGlobal": "Azul",
+      "tituloPainel": "🔑 SAV9 — Painel de Keys",
+      "avisoGlobal": "—",
+      "mensagemLogin": "Painel de gerenciamento de keys",
+      "intensidadeTema": "5",
+      "glass": "6"
+    }
+  },
+  {
+    "tipo": "permission",
+    "msg": "Atualizou as configurações globais do painel | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:41:28",
+    "details": {
+      "corGlobal": "Vermelho",
+      "tituloPainel": "🔑 SAV9 — Painel de Keys",
+      "avisoGlobal": "—",
+      "mensagemLogin": "Painel de gerenciamento de keys",
+      "intensidadeTema": "5",
+      "glass": "6"
+    }
+  },
+  {
+    "tipo": "permission",
+    "msg": "Atualizou as configurações globais do painel | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:41:17",
+    "details": {
+      "corGlobal": "Vermelho",
+      "tituloPainel": "🔑 SAV9 — Painel de Keys",
+      "avisoGlobal": "—",
+      "mensagemLogin": "Painel de gerenciamento de keys",
+      "intensidadeTema": "0",
+      "glass": "14"
+    }
+  },
+  {
+    "tipo": "permission",
+    "msg": "Atualizou as configurações globais do painel | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:40:54",
+    "details": {
+      "corGlobal": "Vermelho",
+      "tituloPainel": "🔑 SAV9 — Painel de Keys",
+      "avisoGlobal": "—",
+      "mensagemLogin": "Painel de gerenciamento de keys",
+      "intensidadeTema": "0",
+      "glass": "0"
+    }
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:40:45",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:40:44",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:40:43",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 03:40:14",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 03:40:13",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:39:46",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:39:41",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:39:41",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:39:39",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:39:39",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:39:38",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:39:38",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:37:52",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:37:36",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:37:05",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:37:04",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:37:04",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:37:03",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:36:08",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:36:08",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:36:07",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:36:06",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:36:06",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:36:05",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:36:04",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 03:36:02",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 03:35:10",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 03:35:10",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 03:35:09",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:32:28",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:32:27",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:32:27",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:32:26",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:32:24",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 03:32:23",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:30:40",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:30:37",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:30:36",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:30:35",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:30:34",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:30:33",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:30:32",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:30:31",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:30:29",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 03:30:26",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 03:29:11",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 03:29:11",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 03:29:10",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:28:49",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:28:46",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:28:43",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:28:41",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:28:39",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:28:12",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 03:28:06",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:25:58",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:25:57",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:25:36",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 03:25:32",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:23:51",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:23:49",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:23:43",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:23:43",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 03:23:40",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 03:19:49",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:18:40",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:18:40",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:18:36",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:18:36",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:18:35",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:18:34",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:18:33",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 03:18:31",
+    "details": null
+  },
+  {
+    "tipo": "permission",
+    "msg": "Atualizou as configurações globais do painel | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:13:40",
+    "details": {
+      "corGlobal": "Azul",
+      "tituloPainel": "🔑 SAV9 — Painel de Keys",
+      "avisoGlobal": "—",
+      "temaPadrao": "light"
+    }
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 03:13:27",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 03:13:26",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 03:13:26",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 03:13:25",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "05-04-2026 03:13:25",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:13:23",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:13:23",
+    "details": null
+  },
+  {
+    "tipo": "permission",
+    "msg": "Forçou logout remoto do usuário: gago | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:12:58",
+    "details": {
+      "login": "gago",
+      "forcarLogoutRemoto": "sim",
+      "disparadoPor": "adm",
+      "horario": "05-04-2026 03:12:58"
+    }
+  },
+  {
+    "tipo": "permission",
+    "msg": "Gerenciamento de usuários liberado por: adm | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:12:53",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:12:50",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:12:49",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:12:48",
+    "details": null
+  },
+  {
+    "tipo": "permission",
+    "msg": "Atualizou as configurações globais do painel | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:12:39",
+    "details": {
+      "corGlobal": "Azul",
+      "tituloPainel": "🔑 SAV9 — Painel de Keys",
+      "avisoGlobal": "—",
+      "temaPadrao": "dark"
+    }
+  },
+  {
+    "tipo": "permission",
+    "msg": "Atualizou as configurações globais do painel | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:12:30",
+    "details": {
+      "corGlobal": "Azul",
+      "tituloPainel": "🔑 SAV9 — Painel de Keys",
+      "avisoGlobal": "tESTE",
+      "temaPadrao": "dark"
+    }
+  },
+  {
+    "tipo": "permission",
+    "msg": "Atualizou as configurações globais do painel | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:12:25",
+    "details": {
+      "corGlobal": "Verde",
+      "tituloPainel": "🔑 SAV9 — Painel de Keys",
+      "avisoGlobal": "tESTE",
+      "temaPadrao": "dark"
+    }
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:12:14",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:12:14",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: painel admin | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:12:10",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:12:09",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:12:08",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:12:05",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:12:04",
+    "details": null
+  },
+  {
+    "tipo": "ui",
+    "msg": "Abriu a aba: log | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 03:12:03",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 03:12:01",
+    "details": null
+  },
+  {
+    "tipo": "clear",
+    "msg": "Log limpo manualmente por adm | 858 entradas removidas",
+    "key": "",
+    "time": "05-04-2026 03:10:54",
+    "details": {
+      "entradasRemovidas": 858,
+      "backupDisponivel": "sim",
+      "backupCriadoEm": "05-04-2026 03:10:54"
+    }
+  }
+]
