@@ -45,26 +45,5 @@
       "visualPreset": "minimal",
       "accentOverride": "cyan"
     }
-  },
-  "arthur": {
-    "login": "arthur",
-    "pass": "321",
-    "nome": "arthur",
-    "permissions": {
-      "viewKeys": true,
-      "viewStats": true,
-      "viewCharts": true,
-      "revealKey": true,
-      "refreshKeys": true,
-      "generate": true,
-      "revoke": true,
-      "extend": true,
-      "extendAdvanced": true,
-      "editNote": false,
-      "exportKeys": true,
-      "manageUsers": false,
-      "forceLogoutUsers": false,
-      "accessAdminPanel": false
-    }
   }
 }
