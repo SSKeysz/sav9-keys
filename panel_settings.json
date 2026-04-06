@@ -3,8 +3,11 @@
   "customAccent": "#6ea8fe",
   "panelTitle": "🔑 SAV9 — Painel de Keys",
   "globalNotice": "",
+  "globalNoticeExpiresAt": "",
+  "seasonalTheme": "none",
   "loginWelcome": "Painel de gerenciamento de keys",
   "glowIntensity": 5,
   "glassLevel": 6,
-  "defaultTheme": "light"
+  "defaultTheme": "light",
+  "liveMode": true
 }
