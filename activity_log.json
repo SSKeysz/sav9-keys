@@ -1,5 +1,19 @@
 [
   {
+    "tipo": "ui",
+    "msg": "Fechou o modal de extensão da key: SAV9-8DN4-SYXD-9MFW | Usuário: adm",
+    "key": "SAV9-8DN4-SYXD-9MFW",
+    "time": "05-04-2026 22:29:07",
+    "details": null
+  },
+  {
+    "tipo": "extend",
+    "msg": "Prazo extendido +1 dias: SAV9-8DN4-SYXD-9MFW → expira 09-04-2026 | Usuário: adm",
+    "key": "SAV9-8DN4-SYXD-9MFW",
+    "time": "05-04-2026 22:29:07",
+    "details": null
+  },
+  {
     "tipo": "extend",
     "msg": "Prazo extendido +1 dias: SAV9-8DN4-SYXD-9MFW → expira 08-04-2026 | Usuário: adm",
     "key": "SAV9-8DN4-SYXD-9MFW",
