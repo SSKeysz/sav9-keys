@@ -1,5 +1,36 @@
 [
   {
+    "tipo": "user_delete",
+    "msg": "Cadastro removido: arthur | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 22:37:14",
+    "details": {
+      "login": "arthur",
+      "nome": "arthur",
+      "senhaAlterada": "não",
+      "totalPermitidas": 10,
+      "totalBloqueadas": 4,
+      "permissoesPermitidas": [
+        "Ver lista de keys",
+        "Ver estatísticas",
+        "Ver aba de gráficos",
+        "Ver/copiar key",
+        "Atualizar lista de keys",
+        "Gerar key",
+        "Revogar key",
+        "Extender prazo básico",
+        "Extensão avançada/lifetime",
+        "Exportar keys"
+      ],
+      "permissoesBloqueadas": [
+        "Editar nota",
+        "Criar/editar usuários",
+        "Forçar logout remoto",
+        "Acessar painel admin"
+      ]
+    }
+  },
+  {
     "tipo": "ui",
     "msg": "Abriu a aba: usuário | Usuário: adm",
     "key": "",
