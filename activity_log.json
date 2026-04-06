@@ -1,6 +1,13 @@
 [
   {
     "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "05-04-2026 22:17:57",
+    "details": null
+  },
+  {
+    "tipo": "login",
     "msg": "Sessão restaurada: gago | manter conectado: sim",
     "key": "",
     "time": "05-04-2026 22:17:40",
