@@ -32,7 +32,7 @@
       "refreshKeys": true,
       "generate": true,
       "revoke": true,
-      "extend": false,
+      "extend": true,
       "extendAdvanced": true,
       "editNote": false,
       "exportKeys": true,
