@@ -1,5 +1,5 @@
 {
-  "accent": "cyan",
+  "accent": "green",
   "customAccent": "#6ea8fe",
   "panelTitle": "🔑 SAV9 — Painel de Keys",
   "globalNotice": "",
@@ -9,5 +9,5 @@
   "glowIntensity": 5,
   "glassLevel": 6,
   "defaultTheme": "light",
-  "liveMode": true
+  "liveMode": false
 }
