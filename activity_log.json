@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "logout",
+    "msg": "Logout manual: adm",
+    "key": "",
+    "time": "05-04-2026 22:38:38",
+    "details": null
+  },
+  {
     "tipo": "user_create",
     "msg": "Cadastro criado: tutu | Nome: tutu | Usuário: adm",
     "key": "",
