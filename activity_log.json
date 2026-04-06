@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "ui",
+    "msg": "Abriu a aba: usuário | Usuário: adm",
+    "key": "",
+    "time": "05-04-2026 22:36:26",
+    "details": null
+  },
+  {
     "tipo": "extend",
     "msg": "Prazo extendido +1 dias: SAV9-8DN4-SYXD-9MFW → expira 12-04-2026 | Usuário: adm",
     "key": "SAV9-8DN4-SYXD-9MFW",
