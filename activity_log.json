@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "login",
+    "msg": "Login realizado: adm | manter conectado: sim",
+    "key": "",
+    "time": "06-04-2026 15:34:58",
+    "details": null
+  },
+  {
     "tipo": "logout",
     "msg": "Logout manual: adm",
     "key": "",
