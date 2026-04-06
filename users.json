@@ -49,9 +49,9 @@
       "accessAdminPanel": false
     },
     "preferences": {
-      "themeMode": "light",
+      "themeMode": "global",
       "visualPreset": "minimal",
-      "accentOverride": "global"
+      "accentOverride": "blue"
     }
   }
 }
