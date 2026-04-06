@@ -1,6 +1,6 @@
 {
-  "accent": "green",
-  "customAccent": "#6ea8fe",
+  "accent": "custom",
+  "customAccent": "#ff0000",
   "panelTitle": "🔑 SAV9 — Painel de Keys",
   "globalNotice": "",
   "globalNoticeExpiresAt": "",
