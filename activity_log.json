@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "revoke",
+    "msg": "Key revogada: SAV9-5U2V-S2US-UB3T | Nota: 7mkt | Usuário: adm",
+    "key": "SAV9-5U2V-S2US-UB3T",
+    "time": "07-04-2026 18:46:07",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
