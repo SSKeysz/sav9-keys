@@ -1,6 +1,13 @@
 [
   {
     "tipo": "revoke",
+    "msg": "Key revogada: SAV9-E4TU-TP87-7T7G | Nota: 7mkt | Usuário: adm",
+    "key": "SAV9-E4TU-TP87-7T7G",
+    "time": "07-04-2026 18:46:10",
+    "details": null
+  },
+  {
+    "tipo": "revoke",
     "msg": "Key revogada: SAV9-5U2V-S2US-UB3T | Nota: 7mkt | Usuário: adm",
     "key": "SAV9-5U2V-S2US-UB3T",
     "time": "07-04-2026 18:46:07",
