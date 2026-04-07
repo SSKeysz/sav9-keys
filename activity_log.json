@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "07-04-2026 13:10:38",
+    "details": null
+  },
+  {
     "tipo": "revoke",
     "msg": "Key revogada: SAV9-7XJC-KGVF-482H | Nota: pqpslc | Usuário: adm",
     "key": "SAV9-7XJC-KGVF-482H",
