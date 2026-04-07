@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "06-04-2026 23:40:47",
+    "details": null
+  },
+  {
     "tipo": "create",
     "msg": "Key criada: SAV9-VSUR-UQE3-5G8R | Tipo: diaria | Nota: TESTEEEEEEEEEEEEE | Usuário: adm",
     "key": "SAV9-VSUR-UQE3-5G8R",
