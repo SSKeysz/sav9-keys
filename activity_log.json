@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "create",
+    "msg": "Key criada: SAV9-5RUS-DDNW-SK4P | Tipo: lifetime | Nota: — | Usuário: adm",
+    "key": "SAV9-5RUS-DDNW-SK4P",
+    "time": "06-04-2026 23:07:19",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
