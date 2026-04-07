@@ -1,6 +1,13 @@
 [
   {
     "tipo": "revoke",
+    "msg": "Key revogada: SAV9-UJYD-QQBP-DK8P | Nota: pqpslc | Usuário: adm",
+    "key": "SAV9-UJYD-QQBP-DK8P",
+    "time": "07-04-2026 18:37:54",
+    "details": null
+  },
+  {
+    "tipo": "revoke",
     "msg": "Key revogada: SAV9-ATKM-KTPR-9UTW | Nota: pqpslc | Usuário: adm",
     "key": "SAV9-ATKM-KTPR-9UTW",
     "time": "07-04-2026 18:37:51",
