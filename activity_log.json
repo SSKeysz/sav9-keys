@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "07-04-2026 00:48:00",
+    "details": null
+  },
+  {
     "tipo": "revoke",
     "msg": "Key revogada: SAV9-QW9P-TW85-CPM5 | Nota: <@1378420610895708302> | Usuário: adm",
     "key": "SAV9-QW9P-TW85-CPM5",
