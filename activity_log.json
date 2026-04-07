@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "revoke",
+    "msg": "Key revogada: SAV9-5KCA-LK4J-UCYZ | Nota: revendedor:7mkt | Usuário: adm",
+    "key": "SAV9-5KCA-LK4J-UCYZ",
+    "time": "07-04-2026 18:30:25",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
