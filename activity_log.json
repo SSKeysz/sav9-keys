@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "revoke",
+    "msg": "Key revogada: SAV9-J79E-UZNW-22FU | Nota: Video | Usuário: adm",
+    "key": "SAV9-J79E-UZNW-22FU",
+    "time": "07-04-2026 21:07:46",
+    "details": null
+  },
+  {
     "tipo": "key_view",
     "msg": "Visualizou a key: SAV9-J79E-UZNW-22FU | Usuário: adm",
     "key": "SAV9-J79E-UZNW-22FU",
