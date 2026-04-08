@@ -1,6 +1,13 @@
 [
   {
     "tipo": "revoke",
+    "msg": "Key revogada: SAV9-VDX3-RMAY-MY28 | Nota: 7mkt | Usuário: adm",
+    "key": "SAV9-VDX3-RMAY-MY28",
+    "time": "07-04-2026 23:18:03",
+    "details": null
+  },
+  {
+    "tipo": "revoke",
     "msg": "Key revogada: SAV9-VNVW-JX2E-NVGD | Nota: pqpslc | Usuário: adm",
     "key": "SAV9-VNVW-JX2E-NVGD",
     "time": "07-04-2026 23:18:00",
