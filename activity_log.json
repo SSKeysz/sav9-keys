@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "key_view",
+    "msg": "Visualizou a key: SAV9-J79E-UZNW-22FU | Usuário: adm",
+    "key": "SAV9-J79E-UZNW-22FU",
+    "time": "07-04-2026 21:04:11",
+    "details": null
+  },
+  {
     "tipo": "create",
     "msg": "Key criada: SAV9-J79E-UZNW-22FU | Tipo: diaria | Nota: Video | Usuário: adm",
     "key": "SAV9-J79E-UZNW-22FU",
