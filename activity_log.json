@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "08-04-2026 12:40:35",
+    "details": null
+  },
+  {
     "tipo": "revoke",
     "msg": "Key revogada: SAV9-VDX3-RMAY-MY28 | Nota: 7mkt | Usuário: adm",
     "key": "SAV9-VDX3-RMAY-MY28",
