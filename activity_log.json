@@ -1,6 +1,13 @@
 [
   {
     "tipo": "revoke",
+    "msg": "Key revogada: SAV9-3UFT-KNBR-59DS | Nota: 7mkt | Usuário: adm",
+    "key": "SAV9-3UFT-KNBR-59DS",
+    "time": "08-04-2026 12:43:55",
+    "details": null
+  },
+  {
+    "tipo": "revoke",
     "msg": "Key revogada: SAV9-T6E5-72M2-CHU2 | Nota: revendedor:7mkt | Usuário: adm",
     "key": "SAV9-T6E5-72M2-CHU2",
     "time": "08-04-2026 12:43:52",
