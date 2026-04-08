@@ -1,6 +1,13 @@
 [
   {
     "tipo": "revoke",
+    "msg": "Key revogada: SAV9-9Q66-HAUU-GM9N | Nota: revendedor:gago_09. | Usuário: adm",
+    "key": "SAV9-9Q66-HAUU-GM9N",
+    "time": "08-04-2026 12:43:57",
+    "details": null
+  },
+  {
+    "tipo": "revoke",
     "msg": "Key revogada: SAV9-3UFT-KNBR-59DS | Nota: 7mkt | Usuário: adm",
     "key": "SAV9-3UFT-KNBR-59DS",
     "time": "08-04-2026 12:43:55",
