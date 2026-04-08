@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "08-04-2026 17:50:17",
+    "details": null
+  },
+  {
     "tipo": "revoke",
     "msg": "Key revogada: SAV9-9Q66-HAUU-GM9N | Nota: revendedor:gago_09. | Usuário: adm",
     "key": "SAV9-9Q66-HAUU-GM9N",
