@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "create",
+    "msg": "Key criada: SAV9-J79E-UZNW-22FU | Tipo: diaria | Nota: Video | Usuário: adm",
+    "key": "SAV9-J79E-UZNW-22FU",
+    "time": "07-04-2026 21:03:10",
+    "details": null
+  },
+  {
     "tipo": "revoke",
     "msg": "Key revogada: SAV9-BZAV-YPJN-SGHM | Nota: Teste30DD | Usuário: adm",
     "key": "SAV9-BZAV-YPJN-SGHM",
