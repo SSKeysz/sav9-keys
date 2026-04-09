@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "note",
+    "msg": "Nota alterada na key SAV9-E46Q-9V3R-GAJD: \"revendedor:7mkt\" → \"key teste 7d \" | Usuário: adm",
+    "key": "SAV9-E46Q-9V3R-GAJD",
+    "time": "08-04-2026 22:37:38",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
