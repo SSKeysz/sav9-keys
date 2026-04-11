@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "ui",
+    "msg": "Abriu o modal de extensão para a key: SAV9-8DN4-SYXD-9MFW | Usuário: adm",
+    "key": "SAV9-8DN4-SYXD-9MFW",
+    "time": "11-04-2026 00:48:44",
+    "details": null
+  },
+  {
     "tipo": "key_view",
     "msg": "Visualizou a key: SAV9-8DN4-SYXD-9MFW | Usuário: adm",
     "key": "SAV9-8DN4-SYXD-9MFW",
