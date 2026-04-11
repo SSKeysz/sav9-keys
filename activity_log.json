@@ -1,6 +1,13 @@
 [
   {
     "tipo": "revoke",
+    "msg": "Key revogada: SAV9-CGRP-DPNC-Y6B3 | Nota: 7mkt | Usuário: adm",
+    "key": "SAV9-CGRP-DPNC-Y6B3",
+    "time": "11-04-2026 00:23:58",
+    "details": null
+  },
+  {
+    "tipo": "revoke",
     "msg": "Key revogada: SAV9-Y6XE-4CXU-RBFZ | Nota: revendedor:7mkt | Usuário: adm",
     "key": "SAV9-Y6XE-4CXU-RBFZ",
     "time": "11-04-2026 00:23:56",
