@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "ui",
+    "msg": "Abriu o modal de extensão para a key: SAV9-Y6XE-4CXU-RBFZ | Usuário: adm",
+    "key": "SAV9-Y6XE-4CXU-RBFZ",
+    "time": "11-04-2026 00:23:12",
+    "details": null
+  },
+  {
     "tipo": "revoke",
     "msg": "Key revogada: SAV9-X2SZ-NZZX-CMCN | Nota: revendedor:7mkt | Usuário: adm",
     "key": "SAV9-X2SZ-NZZX-CMCN",
