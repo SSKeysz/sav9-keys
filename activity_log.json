@@ -1,6 +1,13 @@
 [
   {
     "tipo": "ui",
+    "msg": "Alterou tema para: dark | Usuário: adm",
+    "key": "",
+    "time": "11-04-2026 00:25:54",
+    "details": null
+  },
+  {
+    "tipo": "ui",
     "msg": "Alterou tema para: light | Usuário: adm",
     "key": "",
     "time": "11-04-2026 00:25:53",
