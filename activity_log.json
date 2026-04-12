@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "12-04-2026 20:57:57",
+    "details": null
+  },
+  {
     "tipo": "revoke",
     "msg": "Key revogada: SAV9-266H-QXSB-66UE | Nota: 7mkt | Usuário: adm",
     "key": "SAV9-266H-QXSB-66UE",
