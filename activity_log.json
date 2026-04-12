@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "note",
+    "msg": "Nota alterada na key SAV9-4ZRT-S2DN-YFDX: \"revendedor:7mkt\" → \"Sabunete\" | Usuário: adm",
+    "key": "SAV9-4ZRT-S2DN-YFDX",
+    "time": "12-04-2026 02:11:16",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
