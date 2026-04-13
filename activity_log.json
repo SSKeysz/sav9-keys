@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "key_view",
+    "msg": "Visualizou a key: SAV9-8DN4-SYXD-9MFW | Usuário: adm",
+    "key": "SAV9-8DN4-SYXD-9MFW",
+    "time": "13-04-2026 18:11:08",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
