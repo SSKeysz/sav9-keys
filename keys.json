@@ -42,5 +42,11 @@
     "tipo": "lifetime",
     "nota": "Sabunete",
     "criada": "2026-04-12"
+  },
+  "SAV9-LNLA-4LA5-DQP2": {
+    "expira": "2026-05-13T01:32:22.181Z",
+    "tipo": "mensal",
+    "nota": "7mkt",
+    "criada": "2026-04-13"
   }
 }
