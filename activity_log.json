@@ -1,6 +1,13 @@
 [
   {
     "tipo": "key_view",
+    "msg": "Ocultou a key: SAV9-8DN4-SYXD-9MFW | Usuário: adm",
+    "key": "SAV9-8DN4-SYXD-9MFW",
+    "time": "13-04-2026 18:11:21",
+    "details": null
+  },
+  {
+    "tipo": "key_view",
     "msg": "Ocultou a key: SAV9-G9XJ-C3GC-R3ZU | Usuário: adm",
     "key": "SAV9-G9XJ-C3GC-R3ZU",
     "time": "13-04-2026 18:11:19",
