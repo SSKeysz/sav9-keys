@@ -1,6 +1,13 @@
 [
   {
     "tipo": "key_view",
+    "msg": "Ocultou a key: SAV9-JJXT-LJ4B-2HZW | Usuário: adm",
+    "key": "SAV9-JJXT-LJ4B-2HZW",
+    "time": "13-04-2026 18:11:17",
+    "details": null
+  },
+  {
+    "tipo": "key_view",
     "msg": "Ocultou a key: SAV9-4ZRT-S2DN-YFDX | Usuário: adm",
     "key": "SAV9-4ZRT-S2DN-YFDX",
     "time": "13-04-2026 18:11:15",
