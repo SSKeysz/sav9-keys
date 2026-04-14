@@ -1,6 +1,13 @@
 [
   {
     "tipo": "key_view",
+    "msg": "Visualizou a key: SAV9-M7PU-97DF-MC4F | Usuário: adm",
+    "key": "SAV9-M7PU-97DF-MC4F",
+    "time": "14-04-2026 13:19:03",
+    "details": null
+  },
+  {
+    "tipo": "key_view",
     "msg": "Visualizou a key: SAV9-8DN4-SYXD-9MFW | Usuário: adm",
     "key": "SAV9-8DN4-SYXD-9MFW",
     "time": "14-04-2026 13:19:01",
