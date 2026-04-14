@@ -1,6 +1,36 @@
 [
   {
     "tipo": "permission",
+    "msg": "Permissões/credenciais atualizadas: adm | Usuário: adm",
+    "key": "",
+    "time": "14-04-2026 13:22:02",
+    "details": {
+      "login": "adm",
+      "nome": "Administrador",
+      "senhaAlterada": "sim",
+      "totalPermitidas": 14,
+      "totalBloqueadas": 0,
+      "permissoesPermitidas": [
+        "Ver lista de keys",
+        "Ver estatísticas",
+        "Ver aba de gráficos",
+        "Ver/copiar key",
+        "Atualizar lista de keys",
+        "Gerar key",
+        "Revogar key",
+        "Extender prazo básico",
+        "Extensão avançada/lifetime",
+        "Editar nota",
+        "Exportar keys",
+        "Criar/editar usuários",
+        "Forçar logout remoto",
+        "Acessar painel admin"
+      ],
+      "permissoesBloqueadas": []
+    }
+  },
+  {
+    "tipo": "permission",
     "msg": "Gerenciamento de usuários liberado por: adm | Usuário: adm",
     "key": "",
     "time": "14-04-2026 13:21:58",
