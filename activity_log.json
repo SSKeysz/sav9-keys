@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "14-04-2026 17:24:03",
+    "details": null
+  },
+  {
     "tipo": "ui",
     "msg": "Alterou tema para: dark | Usuário: adm",
     "key": "",
