@@ -1,7 +1,7 @@
 {
   "adm": {
     "login": "adm",
-    "pass": "123",
+    "pass": "1",
     "nome": "Administrador",
     "permissions": {
       "viewKeys": true,
