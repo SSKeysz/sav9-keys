@@ -1,6 +1,13 @@
 [
   {
     "tipo": "key_view",
+    "msg": "Visualizou a key: SAV9-4ZRT-S2DN-YFDX | Usuário: adm",
+    "key": "SAV9-4ZRT-S2DN-YFDX",
+    "time": "14-04-2026 13:18:57",
+    "details": null
+  },
+  {
+    "tipo": "key_view",
     "msg": "Visualizou a key: SAV9-E46Q-9V3R-GAJD | Usuário: adm",
     "key": "SAV9-E46Q-9V3R-GAJD",
     "time": "14-04-2026 13:18:56",
