@@ -3,6 +3,13 @@
     "tipo": "login_fail",
     "msg": "Tentativa de login inválida para o usuário: adm",
     "key": "",
+    "time": "14-04-2026 13:21:36",
+    "details": null
+  },
+  {
+    "tipo": "login_fail",
+    "msg": "Tentativa de login inválida para o usuário: adm",
+    "key": "",
     "time": "14-04-2026 13:21:32",
     "details": null
   },
