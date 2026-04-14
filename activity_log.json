@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "permission",
+    "msg": "Gerenciamento de usuários liberado por: adm | Usuário: adm",
+    "key": "",
+    "time": "14-04-2026 13:20:10",
+    "details": null
+  },
+  {
     "tipo": "ui",
     "msg": "Abriu a aba: usuário | Usuário: adm",
     "key": "",
