@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "key_view",
+    "msg": "Copiou a key: SAV9-2B2Z-8QNV-BBUK | Usuário: adm",
+    "key": "SAV9-2B2Z-8QNV-BBUK",
+    "time": "17-04-2026 23:24:28",
+    "details": null
+  },
+  {
     "tipo": "create",
     "msg": "Key criada: SAV9-2B2Z-8QNV-BBUK | Tipo: lifetime | Nota: vnz | Usuário: adm",
     "key": "SAV9-2B2Z-8QNV-BBUK",
