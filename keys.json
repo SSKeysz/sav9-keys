@@ -48,5 +48,11 @@
     "tipo": "lifetime",
     "nota": "vnz",
     "criada": "2026-04-18"
+  },
+  "SAV9-KSG2-JRD4-SNNL": {
+    "expira": "2026-04-19T03:04:22.360Z",
+    "tipo": "diaria",
+    "nota": "revendedor:7mkt",
+    "criada": "2026-04-18"
   }
 }
