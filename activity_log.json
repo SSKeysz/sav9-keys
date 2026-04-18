@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "create",
+    "msg": "Key criada: SAV9-2B2Z-8QNV-BBUK | Tipo: lifetime | Nota: vnz | Usuário: adm",
+    "key": "SAV9-2B2Z-8QNV-BBUK",
+    "time": "17-04-2026 23:24:23",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
