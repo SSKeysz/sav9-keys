@@ -1,6 +1,13 @@
 [
   {
     "tipo": "create",
+    "msg": "Key criada: SAV9-TWQK-BYND-QR4J | Tipo: mensal | Nota: — | Usuário: adm",
+    "key": "SAV9-TWQK-BYND-QR4J",
+    "time": "23-04-2026 23:24:13",
+    "details": null
+  },
+  {
+    "tipo": "create",
     "msg": "Key criada: SAV9-9RTP-CVTM-CPJX | Tipo: mensal | Nota: — | Usuário: adm",
     "key": "SAV9-9RTP-CVTM-CPJX",
     "time": "23-04-2026 23:24:08",
