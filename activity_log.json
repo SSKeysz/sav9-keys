@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "create",
+    "msg": "Key criada: SAV9-6AFD-GSTN-NTAH | Tipo: lifetime | Nota: — | Usuário: adm",
+    "key": "SAV9-6AFD-GSTN-NTAH",
+    "time": "23-04-2026 23:17:41",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
