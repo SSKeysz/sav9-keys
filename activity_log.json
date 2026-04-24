@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "revoke",
+    "msg": "Key revogada: SAV9-TWQK-BYND-QR4J | Nota: — | Usuário: adm",
+    "key": "SAV9-TWQK-BYND-QR4J",
+    "time": "23-04-2026 23:24:22",
+    "details": null
+  },
+  {
     "tipo": "create",
     "msg": "Key criada: SAV9-TWQK-BYND-QR4J | Tipo: mensal | Nota: — | Usuário: adm",
     "key": "SAV9-TWQK-BYND-QR4J",
