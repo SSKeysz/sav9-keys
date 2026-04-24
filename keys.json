@@ -48,5 +48,13 @@
     "tipo": "lifetime",
     "nota": "vnz",
     "criada": "2026-04-18"
+  },
+  "SAV9-6AFD-GSTN-NTAH": {
+    "expira": "2125-04-24T02:17:40.942Z",
+    "tipo": "lifetime",
+    "nota": "",
+    "criada": "2026-04-24",
+    "hwid": "",
+    "hwid_required": true
   }
 }
