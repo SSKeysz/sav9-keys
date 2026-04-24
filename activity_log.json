@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "23-04-2026 23:36:59",
+    "details": null
+  },
+  {
     "tipo": "note",
     "msg": "Nota alterada na key SAV9-9RTP-CVTM-CPJX: \"—\" → \"MK 30D\" | Usuário: adm",
     "key": "SAV9-9RTP-CVTM-CPJX",
