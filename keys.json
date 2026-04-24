@@ -50,5 +50,13 @@
     "criada": "2026-04-24",
     "hwid": "",
     "hwid_required": true
+  },
+  "SAV9-TWQK-BYND-QR4J": {
+    "expira": "2026-05-24T02:24:12.375Z",
+    "tipo": "mensal",
+    "nota": "",
+    "criada": "2026-04-24",
+    "hwid": "",
+    "hwid_required": false
   }
 }
