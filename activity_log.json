@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "note",
+    "msg": "Nota alterada na key SAV9-9RTP-CVTM-CPJX: \"—\" → \"MK 30D\" | Usuário: adm",
+    "key": "SAV9-9RTP-CVTM-CPJX",
+    "time": "23-04-2026 23:35:31",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
