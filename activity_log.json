@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "key_view",
+    "msg": "Copiou a key recém-gerada: SAV9-6AFD-GSTN-NTAH | Usuário: adm",
+    "key": "SAV9-6AFD-GSTN-NTAH",
+    "time": "23-04-2026 23:17:43",
+    "details": null
+  },
+  {
     "tipo": "create",
     "msg": "Key criada: SAV9-6AFD-GSTN-NTAH | Tipo: lifetime | Nota: — | Usuário: adm",
     "key": "SAV9-6AFD-GSTN-NTAH",
