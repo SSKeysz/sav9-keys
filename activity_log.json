@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "key_view",
+    "msg": "Copiou a key recém-gerada: SAV9-5Q39-523A-3PXK | Usuário: adm",
+    "key": "SAV9-5Q39-523A-3PXK",
+    "time": "23-04-2026 23:23:43",
+    "details": null
+  },
+  {
     "tipo": "create",
     "msg": "Key criada: SAV9-5Q39-523A-3PXK | Tipo: lifetime | Nota: — | Usuário: adm",
     "key": "SAV9-5Q39-523A-3PXK",
