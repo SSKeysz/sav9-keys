@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "revoke",
+    "msg": "Key revogada: SAV9-M7PU-97DF-MC4F | Nota: MK 30D | Usuário: adm",
+    "key": "SAV9-M7PU-97DF-MC4F",
+    "time": "23-04-2026 23:23:55",
+    "details": null
+  },
+  {
     "tipo": "key_view",
     "msg": "Copiou a key recém-gerada: SAV9-5Q39-523A-3PXK | Usuário: adm",
     "key": "SAV9-5Q39-523A-3PXK",
