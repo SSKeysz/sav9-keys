@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "create",
+    "msg": "Key criada: SAV9-9RTP-CVTM-CPJX | Tipo: mensal | Nota: — | Usuário: adm",
+    "key": "SAV9-9RTP-CVTM-CPJX",
+    "time": "23-04-2026 23:24:08",
+    "details": null
+  },
+  {
     "tipo": "revoke",
     "msg": "Key revogada: SAV9-5Q39-523A-3PXK | Nota: — | Usuário: adm",
     "key": "SAV9-5Q39-523A-3PXK",
