@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "23-04-2026 23:18:42",
+    "details": null
+  },
+  {
     "tipo": "key_view",
     "msg": "Copiou a key recém-gerada: SAV9-6AFD-GSTN-NTAH | Usuário: adm",
     "key": "SAV9-6AFD-GSTN-NTAH",
