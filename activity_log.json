@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "23-04-2026 23:17:08",
+    "details": null
+  },
+  {
     "tipo": "key_view",
     "msg": "Copiou a key: SAV9-BGPE-XT72-E6B2 | Usuário: adm",
     "key": "SAV9-BGPE-XT72-E6B2",
