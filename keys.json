@@ -42,13 +42,5 @@
     "tipo": "lifetime",
     "nota": "vnz",
     "criada": "2026-04-18"
-  },
-  "SAV9-5X5K-UX8F-T35K": {
-    "expira": "2125-04-25T16:22:32.824Z",
-    "tipo": "lifetime",
-    "nota": "TESTE",
-    "criada": "2026-04-25",
-    "hwid": "",
-    "hwid_required": true
   }
 }
