@@ -42,5 +42,13 @@
     "tipo": "lifetime",
     "nota": "vnz",
     "criada": "2026-04-18"
+  },
+  "SAV9-J6LY-MH7V-3ELD": {
+    "expira": "2125-04-25T21:01:16.330Z",
+    "tipo": "lifetime",
+    "nota": "HWID",
+    "criada": "2026-04-25",
+    "hwid": "",
+    "hwid_required": true
   }
 }
