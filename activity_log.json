@@ -1,5 +1,19 @@
 [
   {
+    "tipo": "key_view",
+    "msg": "Copiou a key: SAV9-J6LY-MH7V-3ELD | Usuário: adm",
+    "key": "SAV9-J6LY-MH7V-3ELD",
+    "time": "25-04-2026 18:04:58",
+    "details": null
+  },
+  {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "25-04-2026 18:04:54",
+    "details": null
+  },
+  {
     "tipo": "create",
     "msg": "Key criada: SAV9-J6LY-MH7V-3ELD | Tipo: lifetime | Nota: HWID | Usuário: adm",
     "key": "SAV9-J6LY-MH7V-3ELD",
