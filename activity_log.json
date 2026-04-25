@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "revoke",
+    "msg": "Key revogada: SAV9-9RTP-CVTM-CPJX | Nota: MK 30D | Usuário: adm",
+    "key": "SAV9-9RTP-CVTM-CPJX",
+    "time": "25-04-2026 13:22:24",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
