@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "revoke",
+    "msg": "Key revogada: SAV9-5X5K-UX8F-T35K | Nota: TESTE | Usuário: adm",
+    "key": "SAV9-5X5K-UX8F-T35K",
+    "time": "25-04-2026 18:01:06",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
