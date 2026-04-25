@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "create",
+    "msg": "Key criada: SAV9-J6LY-MH7V-3ELD | Tipo: lifetime | Nota: HWID | Usuário: adm",
+    "key": "SAV9-J6LY-MH7V-3ELD",
+    "time": "25-04-2026 18:01:17",
+    "details": null
+  },
+  {
     "tipo": "revoke",
     "msg": "Key revogada: SAV9-5X5K-UX8F-T35K | Nota: TESTE | Usuário: adm",
     "key": "SAV9-5X5K-UX8F-T35K",
