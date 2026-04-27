@@ -1,12 +1,4 @@
 {
-  "SAV9-J6LY-MH7V-3ELD": {
-    "criada": "2026-04-25",
-    "expira": "2125-04-25T21:01:16.330Z",
-    "tipo": "lifetime",
-    "hwid": "",
-    "nota": "HWID",
-    "hwid_required": true
-  },
   "SAV9-8DN4-SYXD-9MFW": {
     "criada": "2026-03-28",
     "tipo": "diaria",
