@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "key_view",
+    "msg": "Copiou a key: SAV9-2NEY-JZUV-7JN7 | Usuário: adm",
+    "key": "SAV9-2NEY-JZUV-7JN7",
+    "time": "27-04-2026 18:08:46",
+    "details": null
+  },
+  {
     "tipo": "create",
     "msg": "Key criada: SAV9-2NEY-JZUV-7JN7 | Tipo: mensal | Nota: 30D Mk | Usuário: adm",
     "key": "SAV9-2NEY-JZUV-7JN7",
