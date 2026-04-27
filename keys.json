@@ -1,1 +1,60 @@
-{"SAV9-J6LY-MH7V-3ELD":{"criada":"2026-04-25","expira":"2125-04-25T21:01:16.330Z","tipo":"lifetime","hwid":"TESTE_HWID_123","nota":"HWID","hwid_required":true},"SAV9-8DN4-SYXD-9MFW":{"criada":"2026-03-28","tipo":"diaria","nota":"Key do castro","expira":"2026-04-13"},"SAV9-JJXT-LJ4B-2HZW":{"criada":"2026-04-09","tipo":"mensal","nota":"Key 30d pastebin","expira":"2026-05-09T14:46:38.363Z"},"SAV9-4ZRT-S2DN-YFDX":{"criada":"2026-04-12","tipo":"lifetime","nota":"Sabunete","expira":"2125-04-12T05:09:53.804Z"},"SAV9-E46Q-9V3R-GAJD":{"criada":"2026-04-09","tipo":"semanal","nota":"key 7d mary016654","expira":"2026-04-16T01:34:38.036Z"},"SAV9-BGPE-XT72-E6B2":{"criada":"2026-03-26","tipo":"lifetime","nota":"Arthur","expira":"2125-03-26"},"SAV9-G9XJ-C3GC-R3ZU":{"criada":"2026-03-27","expira":"2125-03-27","usos":0,"historico":[],"nota":"Gago","tipo":"lifetime"},"SAV9-2B2Z-8QNV-BBUK":{"criada":"2026-04-18","tipo":"lifetime","nota":"vnz","expira":"2125-04-18T02:24:22.568Z"}}
+{
+  "SAV9-J6LY-MH7V-3ELD": {
+    "criada": "2026-04-25",
+    "expira": "2125-04-25T21:01:16.330Z",
+    "tipo": "lifetime",
+    "hwid": "TESTE_HWID_123",
+    "nota": "HWID",
+    "hwid_required": true
+  },
+  "SAV9-8DN4-SYXD-9MFW": {
+    "criada": "2026-03-28",
+    "tipo": "diaria",
+    "nota": "Key do castro",
+    "expira": "2026-04-13"
+  },
+  "SAV9-JJXT-LJ4B-2HZW": {
+    "criada": "2026-04-09",
+    "tipo": "mensal",
+    "nota": "Key 30d pastebin",
+    "expira": "2026-05-09T14:46:38.363Z"
+  },
+  "SAV9-4ZRT-S2DN-YFDX": {
+    "criada": "2026-04-12",
+    "tipo": "lifetime",
+    "nota": "Sabunete",
+    "expira": "2125-04-12T05:09:53.804Z"
+  },
+  "SAV9-E46Q-9V3R-GAJD": {
+    "criada": "2026-04-09",
+    "tipo": "semanal",
+    "nota": "key 7d mary016654",
+    "expira": "2026-04-16T01:34:38.036Z"
+  },
+  "SAV9-BGPE-XT72-E6B2": {
+    "criada": "2026-03-26",
+    "tipo": "lifetime",
+    "nota": "Arthur",
+    "expira": "2125-03-26"
+  },
+  "SAV9-G9XJ-C3GC-R3ZU": {
+    "criada": "2026-03-27",
+    "expira": "2125-03-27",
+    "usos": 0,
+    "historico": [],
+    "nota": "Gago",
+    "tipo": "lifetime"
+  },
+  "SAV9-2B2Z-8QNV-BBUK": {
+    "criada": "2026-04-18",
+    "tipo": "lifetime",
+    "nota": "vnz",
+    "expira": "2125-04-18T02:24:22.568Z"
+  },
+  "SAV9-BLTS-BQEM-AHNW": {
+    "expira": "2125-04-27T00:27:43.772Z",
+    "tipo": "lifetime",
+    "nota": "",
+    "criada": "2026-04-27"
+  }
+}
