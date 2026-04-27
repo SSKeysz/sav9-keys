@@ -3,7 +3,7 @@
     "criada": "2026-04-25",
     "expira": "2125-04-25T21:01:16.330Z",
     "tipo": "lifetime",
-    "hwid": "TESTE_HWID_123",
+    "hwid": "",
     "nota": "HWID",
     "hwid_required": true
   },
