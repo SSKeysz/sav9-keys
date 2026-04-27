@@ -42,5 +42,11 @@
     "tipo": "lifetime",
     "nota": "vnz",
     "expira": "2125-04-18T02:24:22.568Z"
+  },
+  "SAV9-2NEY-JZUV-7JN7": {
+    "expira": "2026-05-27T21:08:43.219Z",
+    "tipo": "mensal",
+    "nota": "30D Mk",
+    "criada": "2026-04-27"
   }
 }
