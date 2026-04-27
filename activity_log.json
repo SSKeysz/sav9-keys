@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "create",
+    "msg": "Key criada: SAV9-BLTS-BQEM-AHNW | Tipo: lifetime | Nota: — | Usuário: adm",
+    "key": "SAV9-BLTS-BQEM-AHNW",
+    "time": "26-04-2026 21:27:44",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
