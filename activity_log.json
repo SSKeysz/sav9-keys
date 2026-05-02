@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "revoke",
+    "msg": "Key revogada: SAV9-XLB6-Q78Z-L4BD | Nota: 7mkt | Usuário: adm",
+    "key": "SAV9-XLB6-Q78Z-L4BD",
+    "time": "02-05-2026 12:38:58",
+    "details": null
+  },
+  {
     "tipo": "extend",
     "msg": "Prazo extendido +30 dias: SAV9-JJXT-LJ4B-2HZW → expira 08-06-2026 | Usuário: adm",
     "key": "SAV9-JJXT-LJ4B-2HZW",
