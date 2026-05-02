@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "ui",
+    "msg": "Abriu o modal de extensão para a key: SAV9-JJXT-LJ4B-2HZW | Usuário: adm",
+    "key": "SAV9-JJXT-LJ4B-2HZW",
+    "time": "02-05-2026 12:38:43",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
