@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "08-05-2026 18:29:54",
+    "details": null
+  },
+  {
     "tipo": "revoke",
     "msg": "Key revogada: SAV9-8DN4-SYXD-9MFW | Nota: Key do castro | Usuário: adm",
     "key": "SAV9-8DN4-SYXD-9MFW",
