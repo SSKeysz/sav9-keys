@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "create",
+    "msg": "Key criada: SAV9-4996-U9RJ-GL8R | Tipo: mensal | Nota: filhodowhite.  (xavier) | Usuário: adm",
+    "key": "SAV9-4996-U9RJ-GL8R",
+    "time": "08-05-2026 18:30:23",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
