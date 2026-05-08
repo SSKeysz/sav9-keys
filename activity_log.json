@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "key_view",
+    "msg": "Visualizou a key: SAV9-4996-U9RJ-GL8R | Usuário: adm",
+    "key": "SAV9-4996-U9RJ-GL8R",
+    "time": "08-05-2026 18:30:37",
+    "details": null
+  },
+  {
     "tipo": "create",
     "msg": "Key criada: SAV9-4996-U9RJ-GL8R | Tipo: mensal | Nota: filhodowhite.  (xavier) | Usuário: adm",
     "key": "SAV9-4996-U9RJ-GL8R",
