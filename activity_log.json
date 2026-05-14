@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "ui",
+    "msg": "Alterou tema para: light | Usuário: adm",
+    "key": "",
+    "time": "14-05-2026 02:55:10",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
