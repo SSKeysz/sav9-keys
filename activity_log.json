@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "ui",
+    "msg": "Atualizou a lista de keys manualmente | Usuário: adm",
+    "key": "",
+    "time": "15-05-2026 23:27:19",
+    "details": null
+  },
+  {
     "tipo": "key_view",
     "msg": "Visualizou a key: SAV9-2B2Z-8QNV-BBUK | Usuário: adm",
     "key": "SAV9-2B2Z-8QNV-BBUK",
