@@ -1,6 +1,13 @@
 [
   {
     "tipo": "key_view",
+    "msg": "Visualizou a key: SAV9-2B2Z-8QNV-BBUK | Usuário: adm",
+    "key": "SAV9-2B2Z-8QNV-BBUK",
+    "time": "15-05-2026 22:25:13",
+    "details": null
+  },
+  {
+    "tipo": "key_view",
     "msg": "Visualizou a key: SAV9-4996-U9RJ-GL8R | Usuário: adm",
     "key": "SAV9-4996-U9RJ-GL8R",
     "time": "15-05-2026 22:25:11",
