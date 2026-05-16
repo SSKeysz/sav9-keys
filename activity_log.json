@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "key_view",
+    "msg": "Visualizou a key: SAV9-4996-U9RJ-GL8R | Usuário: adm",
+    "key": "SAV9-4996-U9RJ-GL8R",
+    "time": "15-05-2026 22:25:11",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
