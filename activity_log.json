@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "30-05-2026 16:33:21",
+    "details": null
+  },
+  {
     "tipo": "ui",
     "msg": "Atualizou a lista de keys manualmente | Usuário: adm",
     "key": "",
