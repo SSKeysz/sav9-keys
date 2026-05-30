@@ -1,6 +1,13 @@
 [
   {
     "tipo": "ui",
+    "msg": "Abriu o modal de extensão para a key: SAV9-2NEY-JZUV-7JN7 | Usuário: adm",
+    "key": "SAV9-2NEY-JZUV-7JN7",
+    "time": "30-05-2026 16:34:52",
+    "details": null
+  },
+  {
+    "tipo": "ui",
     "msg": "Fechou o modal de extensão da key: SAV9-2NEY-JZUV-7JN7 | Usuário: adm",
     "key": "SAV9-2NEY-JZUV-7JN7",
     "time": "30-05-2026 16:33:56",
