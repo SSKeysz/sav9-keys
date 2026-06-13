@@ -1,6 +1,20 @@
 [
   {
     "tipo": "ui",
+    "msg": "Fechou o modal de extensão da key: SAV9-JJXT-LJ4B-2HZW | Usuário: adm",
+    "key": "SAV9-JJXT-LJ4B-2HZW",
+    "time": "13-06-2026 00:58:42",
+    "details": null
+  },
+  {
+    "tipo": "extend",
+    "msg": "Prazo extendido +7 dias: SAV9-JJXT-LJ4B-2HZW → expira 20-06-2026 | Usuário: adm",
+    "key": "SAV9-JJXT-LJ4B-2HZW",
+    "time": "13-06-2026 00:58:42",
+    "details": null
+  },
+  {
+    "tipo": "ui",
     "msg": "Abriu o modal de extensão para a key: SAV9-JJXT-LJ4B-2HZW | Usuário: adm",
     "key": "SAV9-JJXT-LJ4B-2HZW",
     "time": "13-06-2026 00:58:39",
