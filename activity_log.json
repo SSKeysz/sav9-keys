@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "ui",
+    "msg": "Abriu o modal de extensão para a key: SAV9-4996-U9RJ-GL8R | Usuário: adm",
+    "key": "SAV9-4996-U9RJ-GL8R",
+    "time": "20-06-2026 10:55:53",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
