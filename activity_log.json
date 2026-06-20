@@ -1,6 +1,13 @@
 [
   {
     "tipo": "ui",
+    "msg": "Abriu a aba: keys | Usuário: adm",
+    "key": "",
+    "time": "20-06-2026 10:56:02",
+    "details": null
+  },
+  {
+    "tipo": "ui",
     "msg": "Abriu a aba: usuário | Usuário: adm",
     "key": "",
     "time": "20-06-2026 10:55:59",
