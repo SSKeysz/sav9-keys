@@ -1,6 +1,13 @@
 [
   {
     "tipo": "ui",
+    "msg": "Fechou o modal de extensão da key: SAV9-4996-U9RJ-GL8R | Usuário: adm",
+    "key": "SAV9-4996-U9RJ-GL8R",
+    "time": "20-06-2026 10:55:57",
+    "details": null
+  },
+  {
+    "tipo": "ui",
     "msg": "Abriu o modal de extensão para a key: SAV9-4996-U9RJ-GL8R | Usuário: adm",
     "key": "SAV9-4996-U9RJ-GL8R",
     "time": "20-06-2026 10:55:53",
