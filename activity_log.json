@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "key_view",
+    "msg": "Visualizou a key: SAV9-2NEY-JZUV-7JN7 | Usuário: adm",
+    "key": "SAV9-2NEY-JZUV-7JN7",
+    "time": "03-07-2026 22:05:41",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
