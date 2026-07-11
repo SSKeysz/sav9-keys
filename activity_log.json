@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "key_view",
+    "msg": "Copiou a key: SAV9-2NEY-JZUV-7JN7 | Usuário: adm",
+    "key": "SAV9-2NEY-JZUV-7JN7",
+    "time": "11-07-2026 10:13:48",
+    "details": null
+  },
+  {
     "tipo": "revoke",
     "msg": "Key revogada: SAV9-ACUK-AXVE-RW7R | Nota: revendedor:7mkt | Usuário: adm",
     "key": "SAV9-ACUK-AXVE-RW7R",
