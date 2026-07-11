@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "revoke",
+    "msg": "Key revogada: SAV9-ACUK-AXVE-RW7R | Nota: revendedor:7mkt | Usuário: adm",
+    "key": "SAV9-ACUK-AXVE-RW7R",
+    "time": "11-07-2026 10:13:45",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
