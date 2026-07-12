@@ -1,6 +1,13 @@
 [
   {
     "tipo": "note",
+    "msg": "Nota alterada na key SAV9-Y386-ZQUX-Y8P5: \"revendedor:7mkt\" → \"Arthur\" | Usuário: adm",
+    "key": "SAV9-Y386-ZQUX-Y8P5",
+    "time": "12-07-2026 16:37:19",
+    "details": null
+  },
+  {
+    "tipo": "note",
     "msg": "Nota alterada na key SAV9-QRCB-43KS-23QQ: \"revendedor:7mkt\" → \"Arthur\" | Usuário: adm",
     "key": "SAV9-QRCB-43KS-23QQ",
     "time": "12-07-2026 16:33:18",
