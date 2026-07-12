@@ -1,6 +1,13 @@
 [
   {
     "tipo": "note",
+    "msg": "Nota alterada na key SAV9-Y386-ZQUX-Y8P5: \"Arthur\" → \"Arthur2\" | Usuário: adm",
+    "key": "SAV9-Y386-ZQUX-Y8P5",
+    "time": "12-07-2026 16:37:58",
+    "details": null
+  },
+  {
+    "tipo": "note",
     "msg": "Nota alterada na key SAV9-2NEY-JZUV-7JN7: \"30D Mk\" → \"Mk\" | Usuário: adm",
     "key": "SAV9-2NEY-JZUV-7JN7",
     "time": "12-07-2026 16:37:52",
