@@ -1,6 +1,13 @@
 [
   {
     "tipo": "key_view",
+    "msg": "Copiou a key: SAV9-G9XJ-C3GC-R3ZU | Usuário: adm",
+    "key": "SAV9-G9XJ-C3GC-R3ZU",
+    "time": "12-07-2026 16:33:09",
+    "details": null
+  },
+  {
+    "tipo": "key_view",
     "msg": "Copiou a key: SAV9-2NEY-JZUV-7JN7 | Usuário: adm",
     "key": "SAV9-2NEY-JZUV-7JN7",
     "time": "11-07-2026 10:13:48",
