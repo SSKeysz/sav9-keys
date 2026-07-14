@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "14-07-2026 01:04:28",
+    "details": null
+  },
+  {
     "tipo": "note",
     "msg": "Nota alterada na key SAV9-Y386-ZQUX-Y8P5: \"Arthur\" → \"Arthur2\" | Usuário: adm",
     "key": "SAV9-Y386-ZQUX-Y8P5",
