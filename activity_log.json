@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "key_view",
+    "msg": "Copiou a key: SAV9-PM4F-TDS8-7HA2 | Usuário: adm",
+    "key": "SAV9-PM4F-TDS8-7HA2",
+    "time": "15-07-2026 01:12:14",
+    "details": null
+  },
+  {
     "tipo": "note",
     "msg": "Nota alterada na key SAV9-PM4F-TDS8-7HA2: \"—\" → \"keyteste\" | Usuário: adm",
     "key": "SAV9-PM4F-TDS8-7HA2",
