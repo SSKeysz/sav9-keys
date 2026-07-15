@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "create",
+    "msg": "Key criada: SAV9-PM4F-TDS8-7HA2 | Tipo: diaria | Nota: — | Usuário: adm",
+    "key": "SAV9-PM4F-TDS8-7HA2",
+    "time": "15-07-2026 00:52:05",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
