@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "ui",
+    "msg": "Abriu o modal de extensão para a key: SAV9-KLUG-P2Z7-3E5F | Usuário: adm",
+    "key": "SAV9-KLUG-P2Z7-3E5F",
+    "time": "15-07-2026 01:59:46",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
