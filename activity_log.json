@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "note",
+    "msg": "Nota alterada na key SAV9-PM4F-TDS8-7HA2: \"—\" → \"keyteste\" | Usuário: adm",
+    "key": "SAV9-PM4F-TDS8-7HA2",
+    "time": "15-07-2026 00:52:11",
+    "details": null
+  },
+  {
     "tipo": "create",
     "msg": "Key criada: SAV9-PM4F-TDS8-7HA2 | Tipo: diaria | Nota: — | Usuário: adm",
     "key": "SAV9-PM4F-TDS8-7HA2",
