@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "note",
+    "msg": "Nota alterada na key SAV9-T998-765Z-RP5K: \"—\" → \"teste\" | Usuário: adm",
+    "key": "SAV9-T998-765Z-RP5K",
+    "time": "14-07-2026 22:53:52",
+    "details": null
+  },
+  {
     "tipo": "create",
     "msg": "Key criada: SAV9-T998-765Z-RP5K | Tipo: lifetime | Nota: — | Usuário: adm",
     "key": "SAV9-T998-765Z-RP5K",
