@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "15-07-2026 00:51:57",
+    "details": null
+  },
+  {
     "tipo": "key_view",
     "msg": "Copiou a key: SAV9-T998-765Z-RP5K | Usuário: adm",
     "key": "SAV9-T998-765Z-RP5K",
