@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "15-07-2026 01:27:02",
+    "details": null
+  },
+  {
     "tipo": "key_view",
     "msg": "Copiou a key: SAV9-PM4F-TDS8-7HA2 | Usuário: adm",
     "key": "SAV9-PM4F-TDS8-7HA2",
