@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "create",
+    "msg": "Key criada: SAV9-T998-765Z-RP5K | Tipo: lifetime | Nota: — | Usuário: adm",
+    "key": "SAV9-T998-765Z-RP5K",
+    "time": "14-07-2026 22:53:41",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
