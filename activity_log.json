@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "note",
+    "msg": "Nota alterada na key SAV9-KM3V-9ALB-H2CX: \"—\" → \"mk\" | Usuário: adm",
+    "key": "SAV9-KM3V-9ALB-H2CX",
+    "time": "16-07-2026 19:46:00",
+    "details": null
+  },
+  {
     "tipo": "create",
     "msg": "Key criada: SAV9-KM3V-9ALB-H2CX | Tipo: lifetime | Nota: — | Usuário: adm",
     "key": "SAV9-KM3V-9ALB-H2CX",
