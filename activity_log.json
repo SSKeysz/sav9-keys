@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "create",
+    "msg": "Key criada: SAV9-8G92-2C2V-5V9E | Tipo: semanal | Nota: — | Usuário: adm",
+    "key": "SAV9-8G92-2C2V-5V9E",
+    "time": "16-07-2026 01:26:43",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
