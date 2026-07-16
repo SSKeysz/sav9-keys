@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "extend",
+    "msg": "Prazo extendido +1 dias: SAV9-KLUG-P2Z7-3E5F → expira 25-07-2026 | Usuário: adm",
+    "key": "SAV9-KLUG-P2Z7-3E5F",
+    "time": "16-07-2026 19:33:16",
+    "details": null
+  },
+  {
     "tipo": "ui",
     "msg": "Abriu o modal de extensão para a key: SAV9-KLUG-P2Z7-3E5F | Usuário: adm",
     "key": "SAV9-KLUG-P2Z7-3E5F",
