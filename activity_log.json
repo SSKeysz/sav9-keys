@@ -1,6 +1,13 @@
 [
   {
     "tipo": "key_view",
+    "msg": "Ocultou a key: SAV9-8G92-2C2V-5V9E | Usuário: adm",
+    "key": "SAV9-8G92-2C2V-5V9E",
+    "time": "16-07-2026 19:32:51",
+    "details": null
+  },
+  {
+    "tipo": "key_view",
     "msg": "Visualizou a key: SAV9-8G92-2C2V-5V9E | Usuário: adm",
     "key": "SAV9-8G92-2C2V-5V9E",
     "time": "16-07-2026 19:32:49",
