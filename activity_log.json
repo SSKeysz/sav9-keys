@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "16-07-2026 19:32:19",
+    "details": null
+  },
+  {
     "tipo": "note",
     "msg": "Nota alterada na key SAV9-8G92-2C2V-5V9E: \"—\" → \"arcadian\" | Usuário: adm",
     "key": "SAV9-8G92-2C2V-5V9E",
