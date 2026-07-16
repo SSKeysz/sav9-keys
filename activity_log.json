@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "key_view",
+    "msg": "Visualizou a key: SAV9-8G92-2C2V-5V9E | Usuário: adm",
+    "key": "SAV9-8G92-2C2V-5V9E",
+    "time": "16-07-2026 19:32:49",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
