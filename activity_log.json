@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "16-07-2026 19:45:22",
+    "details": null
+  },
+  {
     "tipo": "extend",
     "msg": "Prazo extendido +1 dias: SAV9-KLUG-P2Z7-3E5F → expira 25-07-2026 | Usuário: adm",
     "key": "SAV9-KLUG-P2Z7-3E5F",
