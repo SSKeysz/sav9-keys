@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "create",
+    "msg": "Key criada: SAV9-KM3V-9ALB-H2CX | Tipo: lifetime | Nota: — | Usuário: adm",
+    "key": "SAV9-KM3V-9ALB-H2CX",
+    "time": "16-07-2026 19:45:56",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
