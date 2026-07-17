@@ -1,6 +1,13 @@
 [
   {
     "tipo": "key_view",
+    "msg": "Copiou a key: SAV9-JJXT-LJ4B-2HZW | Usuário: adm",
+    "key": "SAV9-JJXT-LJ4B-2HZW",
+    "time": "17-07-2026 13:10:32",
+    "details": null
+  },
+  {
+    "tipo": "key_view",
     "msg": "Visualizou a key: SAV9-JJXT-LJ4B-2HZW | Usuário: adm",
     "key": "SAV9-JJXT-LJ4B-2HZW",
     "time": "17-07-2026 13:10:20",
