@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "key_view",
+    "msg": "Copiou a key: SAV9-KM3V-9ALB-H2CX | Usuário: adm",
+    "key": "SAV9-KM3V-9ALB-H2CX",
+    "time": "16-07-2026 22:10:20",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
