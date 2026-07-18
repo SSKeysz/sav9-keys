@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "session",
+    "msg": "Página/aba fechada por adm | sessão preservada: sim",
+    "key": "",
+    "time": "17-07-2026 21:12:28",
+    "details": null
+  },
+  {
     "tipo": "key_view",
     "msg": "Copiou a key: SAV9-JJXT-LJ4B-2HZW | Usuário: adm",
     "key": "SAV9-JJXT-LJ4B-2HZW",
