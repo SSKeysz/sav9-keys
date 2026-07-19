@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "ui",
+    "msg": "Alterou tema para: light | Usuário: adm",
+    "key": "",
+    "time": "19-07-2026 02:30:43",
+    "details": null
+  },
+  {
     "tipo": "extend",
     "msg": "Prazo extendido +1 dias: SAV9-8G92-2C2V-5V9E → expira 24-07-2026 | Usuário: adm",
     "key": "SAV9-8G92-2C2V-5V9E",
