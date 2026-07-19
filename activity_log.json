@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "ui",
+    "msg": "Abriu o modal de extensão para a key: SAV9-8G92-2C2V-5V9E | Usuário: adm",
+    "key": "SAV9-8G92-2C2V-5V9E",
+    "time": "19-07-2026 02:26:42",
+    "details": null
+  },
+  {
     "tipo": "login",
     "msg": "Sessão restaurada: adm | manter conectado: sim",
     "key": "",
