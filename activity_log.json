@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "extend",
+    "msg": "Prazo extendido +1 dias: SAV9-8G92-2C2V-5V9E → expira 24-07-2026 | Usuário: adm",
+    "key": "SAV9-8G92-2C2V-5V9E",
+    "time": "19-07-2026 02:26:44",
+    "details": null
+  },
+  {
     "tipo": "ui",
     "msg": "Abriu o modal de extensão para a key: SAV9-8G92-2C2V-5V9E | Usuário: adm",
     "key": "SAV9-8G92-2C2V-5V9E",
