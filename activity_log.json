@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "19-07-2026 02:25:12",
+    "details": null
+  },
+  {
     "tipo": "session",
     "msg": "Página/aba fechada por adm | sessão preservada: sim",
     "key": "",
