@@ -1,5 +1,12 @@
 [
   {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "19-07-2026 22:08:28",
+    "details": null
+  },
+  {
     "tipo": "revoke",
     "msg": "Key revogada: SAV9-T63L-LDB6-EQGJ | Nota: obarbosa1 | Usuário: adm",
     "key": "SAV9-T63L-LDB6-EQGJ",
