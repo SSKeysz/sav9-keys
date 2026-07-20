@@ -1,5 +1,19 @@
 [
   {
+    "tipo": "revoke",
+    "msg": "Key revogada: SAV9-T63L-LDB6-EQGJ | Nota: obarbosa1 | Usuário: adm",
+    "key": "SAV9-T63L-LDB6-EQGJ",
+    "time": "19-07-2026 22:07:23",
+    "details": null
+  },
+  {
+    "tipo": "login",
+    "msg": "Sessão restaurada: adm | manter conectado: sim",
+    "key": "",
+    "time": "19-07-2026 22:06:51",
+    "details": null
+  },
+  {
     "tipo": "key_view",
     "msg": "Visualizou a key: SAV9-G8GH-EJMJ-V4ZC | Usuário: adm",
     "key": "SAV9-G8GH-EJMJ-V4ZC",
